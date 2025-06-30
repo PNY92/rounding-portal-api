@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoundingPortal_API", "RoundingPortal_API\RoundingPortal_API.csproj", "{34E2FE38-12AC-4691-9F72-01055A31EEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E2FE38-12AC-4691-9F72-01055A31EEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E2FE38-12AC-4691-9F72-01055A31EEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E2FE38-12AC-4691-9F72-01055A31EEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E2FE38-12AC-4691-9F72-01055A31EEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25DC9F35-94D5-405A-A7BC-76F12E26A0E6}
+	EndGlobalSection
+EndGlobal
